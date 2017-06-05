@@ -1,0 +1,7 @@
+root@galileo:/etc/network# cat /etc/wpa_supplicant.conf
+# reading passphrase from stdin
+network={
+        ssid="Koklyewah"
+        #psk="koklyewah80"
+        psk=aa8b449f177513333aa2b7bb91cfeb2c16d00a58b03dd4dc180f99e8f081d6a6
+}

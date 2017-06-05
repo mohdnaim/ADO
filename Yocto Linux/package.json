@@ -1,0 +1,21 @@
+{
+  "name": "websockets",
+  "description": "",
+  "version": "0.0.0",
+  "main": "main.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+      "express": "4.14.0",
+      "socket.io":"1.5.0",
+      "express-session":"1.7.6",
+      "body-parser":"1.7.0",
+  	  "xml2js":"0.4.17",
+      "ejs":"1.0.0",
+      "johnny-five":"0.10.3",
+      "galileo-io":"0.9.4",
+      "lcd-scrolling":"1.0.2",
+      "always-tail": "0.2.0"
+  }
+}

@@ -1,0 +1,839 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "icon.png": {
+        "previousModTime": 1471606857779,
+        "modified": 1471606857779,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "LICENSE.md": {
+        "previousModTime": 1471606857779,
+        "modified": 1471606857779,
+        "seen": true,
+        "name": "LICENSE.md"
+      },
+      "main.js": {
+        "previousModTime": 1485370084130,
+        "modified": 1485370084130,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1478953114712,
+        "modified": 1478953114712,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1471606857783,
+        "modified": 1471606857783,
+        "seen": true,
+        "name": "README.md"
+      },
+      "WebSocketsV2.xdk": {
+        "previousModTime": 1471606858329,
+        "modified": 1471606858329,
+        "seen": true,
+        "name": "WebSocketsV2.xdk"
+      },
+      "WebSocketsV2.xdke": {
+        "previousModTime": 1485369971172,
+        "modified": 1485369971172,
+        "seen": true,
+        "name": "WebSocketsV2.xdke"
+      },
+      "websockets_client.png": {
+        "previousModTime": 1471606857778,
+        "modified": 1471606857778,
+        "seen": true,
+        "name": "websockets_client.png"
+      },
+      "client/index.css": {
+        "previousModTime": 1471883816361,
+        "modified": 1471883816361,
+        "seen": true,
+        "name": "client/index.css"
+      },
+      "client/index.html": {
+        "previousModTime": 1485359739400,
+        "modified": 1485359739400,
+        "seen": true,
+        "name": "client/index.html"
+      },
+      "client/index.js": {
+        "previousModTime": 1485359899194,
+        "modified": 1485359899194,
+        "seen": true,
+        "name": "client/index.js"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1471606858201,
+        "modified": 1471606858201,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "client/canvasjs.min.js": {
+        "previousModTime": 1471670136581,
+        "modified": 1471670136581,
+        "seen": true,
+        "name": "client/canvasjs.min.js"
+      },
+      "client/jquery-1.11.1.js": {
+        "previousModTime": 1471885705742,
+        "modified": 1471885705742,
+        "seen": true,
+        "name": "client/jquery-1.11.1.js"
+      },
+      "client/doorclosed.jpg": {
+        "previousModTime": 1471974454926,
+        "modified": 1471974454926,
+        "seen": true,
+        "name": "client/doorclosed.jpg"
+      },
+      "client/dooropened.jpg": {
+        "previousModTime": 1471974464903,
+        "modified": 1471974464903,
+        "seen": true,
+        "name": "client/dooropened.jpg"
+      },
+      "client/cover.css": {
+        "previousModTime": 1471944108189,
+        "modified": 1471944108189,
+        "seen": true,
+        "name": "client/cover.css"
+      },
+      "client/index-ok.html": {
+        "previousModTime": 1471885723805,
+        "modified": 1471885723805,
+        "seen": true,
+        "name": "client/index-ok.html"
+      },
+      "client/jquery.min.js": {
+        "previousModTime": 1471884377169,
+        "modified": 1471884377169,
+        "seen": true,
+        "name": "client/jquery.min.js"
+      },
+      "client/bootstrap/css/bootstrap-theme.css": {
+        "previousModTime": 1469433208000,
+        "modified": 1469433208000,
+        "seen": true,
+        "name": "client/bootstrap/css/bootstrap-theme.css"
+      },
+      "client/bootstrap/css/bootstrap-theme.css.map": {
+        "previousModTime": 1469433208000,
+        "modified": 1469433208000,
+        "seen": true,
+        "name": "client/bootstrap/css/bootstrap-theme.css.map"
+      },
+      "client/bootstrap/css/bootstrap-theme.min.css": {
+        "previousModTime": 1469433208000,
+        "modified": 1469433208000,
+        "seen": true,
+        "name": "client/bootstrap/css/bootstrap-theme.min.css"
+      },
+      "client/bootstrap/css/bootstrap-theme.min.css.map": {
+        "previousModTime": 1469433208000,
+        "modified": 1469433208000,
+        "seen": true,
+        "name": "client/bootstrap/css/bootstrap-theme.min.css.map"
+      },
+      "client/bootstrap/css/bootstrap.css": {
+        "previousModTime": 1469433208000,
+        "modified": 1469433208000,
+        "seen": true,
+        "name": "client/bootstrap/css/bootstrap.css"
+      },
+      "client/bootstrap/css/bootstrap.css.map": {
+        "previousModTime": 1469433208000,
+        "modified": 1469433208000,
+        "seen": true,
+        "name": "client/bootstrap/css/bootstrap.css.map"
+      },
+      "client/bootstrap/css/bootstrap.min.css": {
+        "previousModTime": 1469433208000,
+        "modified": 1469433208000,
+        "seen": true,
+        "name": "client/bootstrap/css/bootstrap.min.css"
+      },
+      "client/bootstrap/css/bootstrap.min.css.map": {
+        "previousModTime": 1469433208000,
+        "modified": 1469433208000,
+        "seen": true,
+        "name": "client/bootstrap/css/bootstrap.min.css.map"
+      },
+      "client/bootstrap/css/ie10-viewport-bug-workaround.css": {
+        "previousModTime": 1469407914000,
+        "modified": 1469407914000,
+        "seen": true,
+        "name": "client/bootstrap/css/ie10-viewport-bug-workaround.css"
+      },
+      "client/bootstrap/fonts/glyphicons-halflings-regular.eot": {
+        "previousModTime": 1469425382000,
+        "modified": 1469425382000,
+        "seen": true,
+        "name": "client/bootstrap/fonts/glyphicons-halflings-regular.eot"
+      },
+      "client/bootstrap/fonts/glyphicons-halflings-regular.svg": {
+        "previousModTime": 1469425382000,
+        "modified": 1469425382000,
+        "seen": true,
+        "name": "client/bootstrap/fonts/glyphicons-halflings-regular.svg"
+      },
+      "client/bootstrap/fonts/glyphicons-halflings-regular.ttf": {
+        "previousModTime": 1469425382000,
+        "modified": 1469425382000,
+        "seen": true,
+        "name": "client/bootstrap/fonts/glyphicons-halflings-regular.ttf"
+      },
+      "client/bootstrap/fonts/glyphicons-halflings-regular.woff": {
+        "previousModTime": 1469425382000,
+        "modified": 1469425382000,
+        "seen": true,
+        "name": "client/bootstrap/fonts/glyphicons-halflings-regular.woff"
+      },
+      "client/bootstrap/fonts/glyphicons-halflings-regular.woff2": {
+        "previousModTime": 1469425382000,
+        "modified": 1469425382000,
+        "seen": true,
+        "name": "client/bootstrap/fonts/glyphicons-halflings-regular.woff2"
+      },
+      "client/bootstrap/js/bootstrap.js": {
+        "previousModTime": 1469433208000,
+        "modified": 1469433208000,
+        "seen": true,
+        "name": "client/bootstrap/js/bootstrap.js"
+      },
+      "client/bootstrap/js/bootstrap.min.js": {
+        "previousModTime": 1469433210000,
+        "modified": 1469433210000,
+        "seen": true,
+        "name": "client/bootstrap/js/bootstrap.min.js"
+      },
+      "client/bootstrap/js/ie-emulation-modes-warning.js": {
+        "previousModTime": 1469407914000,
+        "modified": 1469407914000,
+        "seen": true,
+        "name": "client/bootstrap/js/ie-emulation-modes-warning.js"
+      },
+      "client/bootstrap/js/npm.js": {
+        "previousModTime": 1469433210000,
+        "modified": 1469433210000,
+        "seen": true,
+        "name": "client/bootstrap/js/npm.js"
+      },
+      "client/bootstrap-toggle.min.css": {
+        "previousModTime": 1471886372328,
+        "modified": 1471886372328,
+        "seen": true,
+        "name": "client/bootstrap-toggle.min.css"
+      },
+      "client/bootstrap-toggle.min.js": {
+        "previousModTime": 1471886350005,
+        "modified": 1471886350005,
+        "seen": true,
+        "name": "client/bootstrap-toggle.min.js"
+      },
+      "client/toggles-full.css": {
+        "previousModTime": 1446589220000,
+        "modified": 1446589220000,
+        "seen": true,
+        "name": "client/toggles-full.css"
+      },
+      "client/Toggles.js": {
+        "previousModTime": 1446589220000,
+        "modified": 1446589220000,
+        "seen": true,
+        "name": "client/Toggles.js"
+      },
+      "client/toggles.min.js": {
+        "previousModTime": 1471950272153,
+        "modified": 1471950272153,
+        "seen": true,
+        "name": "client/toggles.min.js"
+      },
+      "client/toggles.js": {
+        "previousModTime": 1446589220000,
+        "modified": 1446589220000,
+        "seen": true,
+        "name": "client/toggles.js"
+      },
+      "client/index-ok2.html": {
+        "previousModTime": 1471969725937,
+        "modified": 1471969725937,
+        "seen": true,
+        "name": "client/index-ok2.html"
+      },
+      "client/jquery.easing.min.js": {
+        "previousModTime": 1469422754000,
+        "modified": 1469422754000,
+        "seen": true,
+        "name": "client/jquery.easing.min.js"
+      },
+      "client/scrolling-nav.css": {
+        "previousModTime": 1471987025282,
+        "modified": 1471987025282,
+        "seen": true,
+        "name": "client/scrolling-nav.css"
+      },
+      "client/scrolling-nav.js": {
+        "previousModTime": 1469422754000,
+        "modified": 1469422754000,
+        "seen": true,
+        "name": "client/scrolling-nav.js"
+      },
+      "client/bootstrap-switch.css": {
+        "previousModTime": 1471977845706,
+        "modified": 1471977845706,
+        "seen": true,
+        "name": "client/bootstrap-switch.css"
+      },
+      "client/bootstrap-switch.js": {
+        "previousModTime": 1471977841947,
+        "modified": 1471977841947,
+        "seen": true,
+        "name": "client/bootstrap-switch.js"
+      },
+      "server.crt": {
+        "previousModTime": 1475162049744,
+        "modified": 1475162049744,
+        "seen": true,
+        "name": "server.crt"
+      },
+      "server.key": {
+        "previousModTime": 1475162041475,
+        "modified": 1475162041475,
+        "seen": true,
+        "name": "server.key"
+      },
+      "client/server.crt": {
+        "previousModTime": 1475162049744,
+        "modified": 1475162049744,
+        "seen": true,
+        "name": "client/server.crt"
+      },
+      "client/server.key": {
+        "previousModTime": 1475162041475,
+        "modified": 1475162041475,
+        "seen": true,
+        "name": "client/server.key"
+      },
+      "client/socket.io.js": {
+        "previousModTime": 1475171044729,
+        "modified": 1475171044729,
+        "seen": true,
+        "name": "client/socket.io.js"
+      },
+      "client/index - working OK.html": {
+        "previousModTime": 1476359667226,
+        "modified": 1476359667226,
+        "seen": true,
+        "name": "client/index - working OK.html"
+      },
+      "client - copy/bootstrap-switch.css": {
+        "previousModTime": 1471977845706,
+        "modified": 1471977845706,
+        "seen": true,
+        "name": "client - copy/bootstrap-switch.css"
+      },
+      "client - copy/bootstrap-switch.js": {
+        "previousModTime": 1471977841947,
+        "modified": 1471977841947,
+        "seen": true,
+        "name": "client - copy/bootstrap-switch.js"
+      },
+      "client - copy/bootstrap-toggle.min.css": {
+        "previousModTime": 1471886372328,
+        "modified": 1471886372328,
+        "seen": true,
+        "name": "client - copy/bootstrap-toggle.min.css"
+      },
+      "client - copy/bootstrap-toggle.min.js": {
+        "previousModTime": 1471886350005,
+        "modified": 1471886350005,
+        "seen": true,
+        "name": "client - copy/bootstrap-toggle.min.js"
+      },
+      "client - copy/cover.css": {
+        "previousModTime": 1471944108189,
+        "modified": 1471944108189,
+        "seen": true,
+        "name": "client - copy/cover.css"
+      },
+      "client - copy/doorclosed.jpg": {
+        "previousModTime": 1471974454926,
+        "modified": 1471974454926,
+        "seen": true,
+        "name": "client - copy/doorclosed.jpg"
+      },
+      "client - copy/dooropened.jpg": {
+        "previousModTime": 1471974464903,
+        "modified": 1471974464903,
+        "seen": true,
+        "name": "client - copy/dooropened.jpg"
+      },
+      "client - copy/index - working OK.html": {
+        "previousModTime": 1476359667226,
+        "modified": 1476359667226,
+        "seen": true,
+        "name": "client - copy/index - working OK.html"
+      },
+      "client - copy/index-ok.html": {
+        "previousModTime": 1471885723805,
+        "modified": 1471885723805,
+        "seen": true,
+        "name": "client - copy/index-ok.html"
+      },
+      "client - copy/index-ok2.html": {
+        "previousModTime": 1471969725937,
+        "modified": 1471969725937,
+        "seen": true,
+        "name": "client - copy/index-ok2.html"
+      },
+      "client - copy/index.css": {
+        "previousModTime": 1471883816361,
+        "modified": 1471883816361,
+        "seen": true,
+        "name": "client - copy/index.css"
+      },
+      "client - copy/index.html": {
+        "previousModTime": 1476359667226,
+        "modified": 1476359667226,
+        "seen": true,
+        "name": "client - copy/index.html"
+      },
+      "client - copy/index.js": {
+        "previousModTime": 1471986730279,
+        "modified": 1471986730279,
+        "seen": true,
+        "name": "client - copy/index.js"
+      },
+      "client - copy/jquery-1.11.1.js": {
+        "previousModTime": 1471885705742,
+        "modified": 1471885705742,
+        "seen": true,
+        "name": "client - copy/jquery-1.11.1.js"
+      },
+      "client - copy/jquery.easing.min.js": {
+        "previousModTime": 1469422754000,
+        "modified": 1469422754000,
+        "seen": true,
+        "name": "client - copy/jquery.easing.min.js"
+      },
+      "client - copy/jquery.min.js": {
+        "previousModTime": 1471884377169,
+        "modified": 1471884377169,
+        "seen": true,
+        "name": "client - copy/jquery.min.js"
+      },
+      "client - copy/scrolling-nav.css": {
+        "previousModTime": 1471987025282,
+        "modified": 1471987025282,
+        "seen": true,
+        "name": "client - copy/scrolling-nav.css"
+      },
+      "client - copy/scrolling-nav.js": {
+        "previousModTime": 1469422754000,
+        "modified": 1469422754000,
+        "seen": true,
+        "name": "client - copy/scrolling-nav.js"
+      },
+      "client - copy/server.crt": {
+        "previousModTime": 1475162049744,
+        "modified": 1475162049744,
+        "seen": true,
+        "name": "client - copy/server.crt"
+      },
+      "client - copy/server.key": {
+        "previousModTime": 1475162041475,
+        "modified": 1475162041475,
+        "seen": true,
+        "name": "client - copy/server.key"
+      },
+      "client - copy/socket.io.js": {
+        "previousModTime": 1475171044729,
+        "modified": 1475171044729,
+        "seen": true,
+        "name": "client - copy/socket.io.js"
+      },
+      "client - copy/toggles-full.css": {
+        "previousModTime": 1446589220000,
+        "modified": 1446589220000,
+        "seen": true,
+        "name": "client - copy/toggles-full.css"
+      },
+      "client - copy/toggles.js": {
+        "previousModTime": 1446589220000,
+        "modified": 1446589220000,
+        "seen": true,
+        "name": "client - copy/toggles.js"
+      },
+      "client - copy/bootstrap/css/bootstrap-theme.css": {
+        "previousModTime": 1469433208000,
+        "modified": 1469433208000,
+        "seen": true,
+        "name": "client - copy/bootstrap/css/bootstrap-theme.css"
+      },
+      "client - copy/bootstrap/css/bootstrap-theme.css.map": {
+        "previousModTime": 1469433208000,
+        "modified": 1469433208000,
+        "seen": true,
+        "name": "client - copy/bootstrap/css/bootstrap-theme.css.map"
+      },
+      "client - copy/bootstrap/css/bootstrap-theme.min.css": {
+        "previousModTime": 1469433208000,
+        "modified": 1469433208000,
+        "seen": true,
+        "name": "client - copy/bootstrap/css/bootstrap-theme.min.css"
+      },
+      "client - copy/bootstrap/css/bootstrap-theme.min.css.map": {
+        "previousModTime": 1469433208000,
+        "modified": 1469433208000,
+        "seen": true,
+        "name": "client - copy/bootstrap/css/bootstrap-theme.min.css.map"
+      },
+      "client - copy/bootstrap/css/bootstrap.css": {
+        "previousModTime": 1469433208000,
+        "modified": 1469433208000,
+        "seen": true,
+        "name": "client - copy/bootstrap/css/bootstrap.css"
+      },
+      "client - copy/bootstrap/css/bootstrap.css.map": {
+        "previousModTime": 1469433208000,
+        "modified": 1469433208000,
+        "seen": true,
+        "name": "client - copy/bootstrap/css/bootstrap.css.map"
+      },
+      "client - copy/bootstrap/css/bootstrap.min.css": {
+        "previousModTime": 1469433208000,
+        "modified": 1469433208000,
+        "seen": true,
+        "name": "client - copy/bootstrap/css/bootstrap.min.css"
+      },
+      "client - copy/bootstrap/css/bootstrap.min.css.map": {
+        "previousModTime": 1469433208000,
+        "modified": 1469433208000,
+        "seen": true,
+        "name": "client - copy/bootstrap/css/bootstrap.min.css.map"
+      },
+      "client - copy/bootstrap/css/ie10-viewport-bug-workaround.css": {
+        "previousModTime": 1469407914000,
+        "modified": 1469407914000,
+        "seen": true,
+        "name": "client - copy/bootstrap/css/ie10-viewport-bug-workaround.css"
+      },
+      "client - copy/bootstrap/fonts/glyphicons-halflings-regular.eot": {
+        "previousModTime": 1469425382000,
+        "modified": 1469425382000,
+        "seen": true,
+        "name": "client - copy/bootstrap/fonts/glyphicons-halflings-regular.eot"
+      },
+      "client - copy/bootstrap/fonts/glyphicons-halflings-regular.svg": {
+        "previousModTime": 1469425382000,
+        "modified": 1469425382000,
+        "seen": true,
+        "name": "client - copy/bootstrap/fonts/glyphicons-halflings-regular.svg"
+      },
+      "client - copy/bootstrap/fonts/glyphicons-halflings-regular.ttf": {
+        "previousModTime": 1469425382000,
+        "modified": 1469425382000,
+        "seen": true,
+        "name": "client - copy/bootstrap/fonts/glyphicons-halflings-regular.ttf"
+      },
+      "client - copy/bootstrap/fonts/glyphicons-halflings-regular.woff": {
+        "previousModTime": 1469425382000,
+        "modified": 1469425382000,
+        "seen": true,
+        "name": "client - copy/bootstrap/fonts/glyphicons-halflings-regular.woff"
+      },
+      "client - copy/bootstrap/fonts/glyphicons-halflings-regular.woff2": {
+        "previousModTime": 1469425382000,
+        "modified": 1469425382000,
+        "seen": true,
+        "name": "client - copy/bootstrap/fonts/glyphicons-halflings-regular.woff2"
+      },
+      "client - copy/bootstrap/js/bootstrap.js": {
+        "previousModTime": 1469433208000,
+        "modified": 1469433208000,
+        "seen": true,
+        "name": "client - copy/bootstrap/js/bootstrap.js"
+      },
+      "client - copy/bootstrap/js/bootstrap.min.js": {
+        "previousModTime": 1469433210000,
+        "modified": 1469433210000,
+        "seen": true,
+        "name": "client - copy/bootstrap/js/bootstrap.min.js"
+      },
+      "client - copy/bootstrap/js/ie-emulation-modes-warning.js": {
+        "previousModTime": 1469407914000,
+        "modified": 1469407914000,
+        "seen": true,
+        "name": "client - copy/bootstrap/js/ie-emulation-modes-warning.js"
+      },
+      "client - copy/bootstrap/js/npm.js": {
+        "previousModTime": 1469433210000,
+        "modified": 1469433210000,
+        "seen": true,
+        "name": "client - copy/bootstrap/js/npm.js"
+      },
+      "views/index.html": {
+        "previousModTime": 1482068425415,
+        "modified": 1482068425415,
+        "seen": true,
+        "name": "views/index.html"
+      },
+      "views/jquery.min.js": {
+        "previousModTime": 1471884377169,
+        "modified": 1471884377169,
+        "seen": true,
+        "name": "views/jquery.min.js"
+      },
+      "client/verify.js": {
+        "previousModTime": 1477236767665,
+        "modified": 1477236767665,
+        "seen": true,
+        "name": "client/verify.js"
+      },
+      "views/socket.io.js": {
+        "previousModTime": 1475171044729,
+        "modified": 1475171044729,
+        "seen": true,
+        "name": "views/socket.io.js"
+      },
+      "index.html": {
+        "previousModTime": 1477236763538,
+        "modified": 1477236763538,
+        "seen": true,
+        "name": "index.html"
+      },
+      "views/verify.js": {
+        "previousModTime": 1477236767665,
+        "modified": 1477236767665,
+        "seen": true,
+        "name": "views/verify.js"
+      },
+      "views/index - old.html": {
+        "previousModTime": 1477271227460,
+        "modified": 1477271227460,
+        "seen": true,
+        "name": "views/index - old.html"
+      },
+      "password.xml": {
+        "previousModTime": 1481659761331,
+        "modified": 1481659761331,
+        "seen": true,
+        "name": "password.xml"
+      },
+      "views/spin.min.js": {
+        "previousModTime": 1477569186753,
+        "modified": 1477569186753,
+        "seen": true,
+        "name": "views/spin.min.js"
+      },
+      "client/spin.min.js": {
+        "previousModTime": 1477569186753,
+        "modified": 1477569186753,
+        "seen": true,
+        "name": "client/spin.min.js"
+      },
+      "AUTOMATIC DOOR OPENER README.txt": {
+        "previousModTime": 1478788439790,
+        "modified": 1478788439790,
+        "seen": true,
+        "name": "AUTOMATIC DOOR OPENER README.txt"
+      },
+      "setupserialport.sh": {
+        "previousModTime": 1478788278504,
+        "modified": 1478788278504,
+        "seen": true,
+        "name": "setupserialport.sh"
+      },
+      "ADO.sh.txt": {
+        "previousModTime": 1477408831090,
+        "modified": 1477408831090,
+        "seen": true,
+        "name": "ADO.sh.txt"
+      },
+      "connectWIFI.sh.txt": {
+        "previousModTime": 1477408853854,
+        "modified": 1477408853854,
+        "seen": true,
+        "name": "connectWIFI.sh.txt"
+      },
+      "getLANIP.sh.txt": {
+        "previousModTime": 1477408870661,
+        "modified": 1477408870661,
+        "seen": true,
+        "name": "getLANIP.sh.txt"
+      },
+      "getUptime.sh.txt": {
+        "previousModTime": 1477408886855,
+        "modified": 1477408886855,
+        "seen": true,
+        "name": "getUptime.sh.txt"
+      },
+      "getWIFIIP.sh.txt": {
+        "previousModTime": 1477408903636,
+        "modified": 1477408903636,
+        "seen": true,
+        "name": "getWIFIIP.sh.txt"
+      },
+      "Install packages.txt": {
+        "previousModTime": 1478588314314,
+        "modified": 1478588314314,
+        "seen": true,
+        "name": "Install packages.txt"
+      },
+      "README-Bluetooth.txt": {
+        "previousModTime": 1477552622124,
+        "modified": 1477552622124,
+        "seen": true,
+        "name": "README-Bluetooth.txt"
+      },
+      "wpa_supplicant.conf.txt": {
+        "previousModTime": 1477478768340,
+        "modified": 1477478768340,
+        "seen": true,
+        "name": "wpa_supplicant.conf.txt"
+      },
+      "ADO.sh": {
+        "previousModTime": 1477408831090,
+        "modified": 1477408831090,
+        "seen": true,
+        "name": "ADO.sh"
+      },
+      "connectWIFI.sh": {
+        "previousModTime": 1477408853854,
+        "modified": 1477408853854,
+        "seen": true,
+        "name": "connectWIFI.sh"
+      },
+      "getLANIP.sh": {
+        "previousModTime": 1478791006067,
+        "modified": 1478791006067,
+        "seen": true,
+        "name": "getLANIP.sh"
+      },
+      "getUptime.sh": {
+        "previousModTime": 1478790970762,
+        "modified": 1478790970762,
+        "seen": true,
+        "name": "getUptime.sh"
+      },
+      "getWIFIIP.sh": {
+        "previousModTime": 1478791043445,
+        "modified": 1478791043445,
+        "seen": true,
+        "name": "getWIFIIP.sh"
+      },
+      "main - 10-11-2016.js": {
+        "previousModTime": 1478800741360,
+        "modified": 1478800741360,
+        "seen": true,
+        "name": "main - 10-11-2016.js"
+      },
+      "client/index - 10-11-2016.js": {
+        "previousModTime": 1478433043346,
+        "modified": 1478433043346,
+        "seen": true,
+        "name": "client/index - 10-11-2016.js"
+      },
+      "main - 11-11-2016 not OK.js": {
+        "previousModTime": 1479015294389,
+        "modified": 1479015294389,
+        "seen": true,
+        "name": "main - 11-11-2016 not OK.js"
+      },
+      "client/index - 11-11-2016 not OK.js": {
+        "previousModTime": 1479016762488,
+        "modified": 1479016762488,
+        "seen": true,
+        "name": "client/index - 11-11-2016 not OK.js"
+      },
+      "main - 11-11-2016 OK.js": {
+        "previousModTime": 1479032793697,
+        "modified": 1479032793697,
+        "seen": true,
+        "name": "main - 11-11-2016 OK.js"
+      },
+      "client/index - 11-11-2016 OK.js": {
+        "previousModTime": 1479019029812,
+        "modified": 1479019029812,
+        "seen": true,
+        "name": "client/index - 11-11-2016 OK.js"
+      },
+      "main - 17-11-2016.js": {
+        "previousModTime": 1479050148541,
+        "modified": 1479050148541,
+        "seen": true,
+        "name": "main - 17-11-2016.js"
+      },
+      "client/index - 17-11-2016.html": {
+        "previousModTime": 1478433174340,
+        "modified": 1478433174340,
+        "seen": true,
+        "name": "client/index - 17-11-2016.html"
+      },
+      "main - 12-12-2016.js": {
+        "previousModTime": 1480556026000,
+        "modified": 1480556026000,
+        "seen": true,
+        "name": "main - 12-12-2016.js"
+      },
+      "client/bootstrap-slider.css": {
+        "previousModTime": 1481529159832,
+        "modified": 1481529159832,
+        "seen": true,
+        "name": "client/bootstrap-slider.css"
+      },
+      "client/bootstrap-slider.js": {
+        "previousModTime": 1481530062888,
+        "modified": 1481530062888,
+        "seen": true,
+        "name": "client/bootstrap-slider.js"
+      },
+      "client/csscheckbox.png": {
+        "previousModTime": 1481493782622,
+        "modified": 1481493782622,
+        "seen": true,
+        "name": "client/csscheckbox.png"
+      },
+      "client/index - 12-12-2016.html": {
+        "previousModTime": 1481526331011,
+        "modified": 1481526331011,
+        "seen": true,
+        "name": "client/index - 12-12-2016.html"
+      },
+      "client/dooroffline.jpg": {
+        "previousModTime": 1481994653160,
+        "modified": 1481994653160,
+        "seen": true,
+        "name": "client/dooroffline.jpg"
+      },
+      "user.xml": {
+        "previousModTime": 1485370093010,
+        "modified": 1485370093010,
+        "seen": true,
+        "name": "user.xml"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1485370101334
+      },
+      "user.xml": {
+        "previousModTime": 1485370101334
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <user id='1'>
+    <name>admin</name>
+	<username>admin</username>
+	<password>1</password>
+	<isadmin>1</isadmin>
+  </user>
+  <user id='2'>
+    <name>user2</name>
+	<username>user2</username>
+	<password>1</password>
+	<isadmin>0</isadmin>
+  </user>
+  <user id='3'>
+    <name>user3</name>
+	<username>user3</username>
+	<password>1</password>
+	<isadmin>0</isadmin>
+  </user>
+  <user id='4'>
+    <name>user4</name>
+	<username>user4</username>
+	<password>1</password>
+	<isadmin>0</isadmin>
+  </user>
+  <user id='5'>
+    <name>user5</name>
+	<username>user5</username>
+	<password>1</password>
+	<isadmin>0</isadmin>
+  </user>
+  <user id='6'>
+    <name>user6</name>
+	<username>user6</username>
+	<password>1</password>
+	<isadmin>0</isadmin>
+  </user>
+  <user id='7'>
+    <name>user7</name>
+	<username>user7</username>
+	<password>1</password>
+	<isadmin>0</isadmin>
+  </user>
+  <user id='8'>
+    <name>user8</name>
+	<username>user8</username>
+	<password>1</password>
+	<isadmin>0</isadmin>
+  </user>
+  <user id='9'>
+    <name>user9</name>
+	<username>user9</username>
+	<password>1</password>
+	<isadmin>0</isadmin>
+  </user>
+</root>
