@@ -6,6 +6,8 @@ E-mail: mohdnaim@gmail.com
 
 Final Year Project - BS Computer Science (Information Systems) 2017
 
+## Poster
+![](/images/poster.png)
 
 ## System Overview
 ![](/images/systemoverview.png)
