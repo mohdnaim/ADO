@@ -6,6 +6,8 @@ E-mail: mohdnaim@gmail.com
 
 Final Year Project - BS Computer Science (Information Systems) 2017
 
+The complete system uses the following: Intel Galileo Gen1, Linux (Yocto), C++, HTML5, CSS, Bootstrap, JavaScript, NodeJS, SocketIO, Android, Wi-Fi, Bluetooth, Bash, XML
+
 ## Poster
 ![](/images/poster.png)
 
