@@ -1,4 +1,7 @@
 # Automatic Door Opener
+### Mohd Naim bin Inche Ibrahim
+### mohdnaim@gmail.com
+### Final Year Project - BS Computer Science (Information Systems) 2017
 
 ## System Overview
 ![](/images/systemoverview.png)
