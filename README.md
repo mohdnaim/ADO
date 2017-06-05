@@ -1,8 +1,8 @@
 # Automatic Door Opener
 
-Mohd Naim bin Inche Ibrahim
+Author: Mohd Naim bin Inche Ibrahim
 
-mohdnaim@gmail.com
+E-mail: mohdnaim@gmail.com
 
 Final Year Project - BS Computer Science (Information Systems) 2017
 
