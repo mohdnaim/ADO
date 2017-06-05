@@ -1,10 +1,10 @@
 # Automatic Door Opener
 
-![](/images/system-overview.png)
+![](/images/systemoverview.png)
 
-![](/images/use-case-diagram.png)
+![](/images/usecasediagram.png)
 
-![](/images/breadboard-view.png)
+![](/images/breadboardview.png)
 
 ![](/images/ss-1.png)
 
